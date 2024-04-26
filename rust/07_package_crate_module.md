@@ -1,6 +1,7 @@
 # 理解包（package）与单元包（crate）
 
 通过 Cargo 项目工程结构理解包与单元包概念
+
 ```sh
 .                         // package 包根目录，package 即一个 Cargo 工程，类似 npm 包概念
 ├── Cargo.toml            // package 声明，包含 package 的名称

@@ -1,10 +1,5 @@
 ## 未整理部分
 
-* [包、单元包及模块](rust/07_package_crate_module.md)
-* [模块](rust/modules.md)
-* [动态数组](rust/vector.md)
-* [字符串](rust/string.md)
-* [HashMap](rust/hashmap.md)
 * [处理错误](rust/panic.md)
 * [泛型](rust/genericity.md)
 * [trait](rust/trait.md)

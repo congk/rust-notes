@@ -1,7 +1,7 @@
 # HashMap
 
-* HashMap 数据存储在堆上
-* HashMap 是同质的，所有的键必须为同一类型，所有的值也必须拥有同一类型。
+* HashMap 数据存储在**堆**上
+* `HashMap<K, V>` 是同质的，所有的键必须为同一类型，所有的值也必须拥有同一类型。
 
 #### 生成 HashMap
 
@@ -12,7 +12,7 @@ use std::collections::HashMap;
 fn main() {
     // 通过元组数组生成 HashMap
     let map = HashMap::from([("Blue", 10), ("Yellow", 30)]);
-    // HashMap 默认实现了 Debug trait，可以使用占位符 `{:?}` 进行打印
+    // HashMap 默认实现了 Debug trait，可以使用占位符 `{:?}` 进行序列化
     println!("{:?}", map);
 
     let teams = vec![String::from("Blue"), String::from("Yellow")];

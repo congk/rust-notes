@@ -47,4 +47,6 @@
   * [`Sync trait` 与 `Send trait`](rust/sync-and-send.md)
 * 模式匹配
 * 其他资料
-  * [Tokio 学习笔记](https://skyao.io/learning-tokio/docs.html)
+  * [Tokio 中文文档](https://tokio-zh.github.io/document/)
+  * [Rust ORM 框架 Diesel](https://www.rectcircle.cn/posts/rust-diesel/)
+  * [极客 Rust 中文文档索引](https://geekdaxue.co/read/rustlang-doc-cn/docs-server-diesel-README.md)
